@@ -1,0 +1,6 @@
+C:\Users\Lisa\Documents\GitHub\CustomList\List\List\bin\Debug\List.exe.config
+C:\Users\Lisa\Documents\GitHub\CustomList\List\List\bin\Debug\List.exe
+C:\Users\Lisa\Documents\GitHub\CustomList\List\List\bin\Debug\List.pdb
+C:\Users\Lisa\Documents\GitHub\CustomList\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Documents\GitHub\CustomList\List\List\obj\Debug\List.exe
+C:\Users\Lisa\Documents\GitHub\CustomList\List\List\obj\Debug\List.pdb
